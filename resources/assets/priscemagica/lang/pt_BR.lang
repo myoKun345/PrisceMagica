@@ -1,6 +1,13 @@
-item.magicGem.name=Gema Magica
-item.wand.name=Varinha Magica
+item.magicGem.name=Gema magica
+item.wand.name=Varinha magica
+item.scroll.name=Papiro magico
 
-tile.spellDesk.name=Mesa de Bruxaria
+tile.spellDesk.name=Mesa de bruxaria
+
+spell.fireball.name=Bola de fogo
+spell.icebolt.name=Raio gelado
+
+spell.fireball.desc=O bruxo atira um projetil rapido e flamejante. Quando atingir um inimigo, dará uma quantidade moderada de dano e ele se queimara.
+spell.icebolt.desc=O bruxo lanca um gelido e devagar projetil. Quando atingir um inimigo, ira congela-lo, prevenindo o movimento por um pequeno periodo.
 
 itemGroup.PrisceMagica=PrisceMagica
