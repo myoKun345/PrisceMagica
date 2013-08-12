@@ -1,0 +1,15 @@
+#zh_CN
+
+item.magicGem.name=巫玉
+item.wand.name=杖
+item.scroll.name=巫术卷轴
+
+tile.spellDesk.name=巫术台
+
+spell.fireball.name=火球
+spell.icebolt.name=冰弹
+
+spell.fireball.desc=施法者发射出一枚高速移动，伴随着火光的弹射物,会对敌人造成一定伤害并使他们着火。
+spell.icebolt.desc=施法者发射出一枚缓慢移动冒着寒气的弹射物，会冻结敌人一小段时间。
+
+itemGroup.PrisceMagica=巫术
