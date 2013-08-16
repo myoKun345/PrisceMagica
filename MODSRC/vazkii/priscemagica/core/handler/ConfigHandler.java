@@ -41,11 +41,11 @@ public final class ConfigHandler {
 	
 	private static final String SPELLS_COMMENT = 
 			"A configuration for spells. With this you can disable specific spells. \r" +
-			"Set the values to: \r" +
-			"0: Completely available, no restrictions. \r" +
-			"1: Not researchable, but useable. \r" +
-			"2: Useable by OPs only. \r" +
-			"3: Completely disabled."; 
+			"# Set the values to: \r" +
+			"# 0: Completely available, no restrictions. \r" +
+			"# 1: Not researchable, but useable. \r" +
+			"# 2: Useable by OPs only. \r" +
+			"# 3: Completely disabled."; 
 	
 	public static void loadSpellConfig() {
 		config.getCategory(CATEGORY_SPELLS).setComment(SPELLS_COMMENT);
